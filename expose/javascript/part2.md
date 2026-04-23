@@ -28,3 +28,4 @@
 14d. false (strict equality, no type coercion)
 14e. false (loose equality, true is converted to 1)
 14f. true (boolean of non-zero numbers equals true, types are true)
+15. The == operator compares for equality after doing type conversions. The === operator will not do the conversion and will simply compare the two as they currently exist.
