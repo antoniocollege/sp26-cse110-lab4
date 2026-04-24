@@ -50,7 +50,6 @@
 
 15. The == operator compares for equality after doing type conversions. The === operator will not do the conversion and will simply compare the two as they currently exist.
 
-16. 
-17. 
-18. 
-19. 
+17. The console will return the array [2,4,6]. What it does is loop through each item of the starting array, "doSomething" (multiply the item by 2), then push it to a new array.
+
+19. In order, it prints 1, 4, 3, 2.
